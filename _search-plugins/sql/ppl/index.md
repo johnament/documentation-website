@@ -7,8 +7,10 @@ has_children: true
 has_toc: false
 redirect_from:
   - /search-plugins/sql/ppl/
+  - /search-plugins/sql/ppl/index/
   - /search-plugins/ppl/
   - /observability-plugin/ppl/
+  - /observability-plugin/ppl/index/
   - /search-plugins/ppl/index/
   - /search-plugins/ppl/endpoint/
   - /search-plugins/ppl/protocol/
